@@ -47,6 +47,10 @@ We're actively working to bring Sync-Markets to life! If you're interested in co
 
 ---
 
+## 📜 License
+
+This project is licensed under the **GNU General Public License v3.0**. You are free to use, modify, and distribute the code under the terms of this license. For more details, please refer to the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file or visit the official [GNU website](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
 ## 🤝 Contribute
 We encourage contributions to help shape Sync-Markets into a powerful tool for the trading community. Feel free to open a pull request.
 
